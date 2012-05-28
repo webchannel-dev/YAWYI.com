@@ -1,0 +1,135 @@
+#home-menu a {
+	overflow: hidden;
+	display: block;
+	width:25px;
+	height:12px;
+	text-indent: -10000px;
+	/* border: 1px solid red; */
+	background:url(../../images/nav/home-menu.gif) 0 0; no-repeat;
+}
+#home-menu a:hover {
+	background-position:0 -12px;
+}
+#sports-menu a {
+	overflow: hidden;
+	display: block;
+	width:40px;
+	height:12px;
+	text-indent: -10000px;
+	/* border: 1px solid red; */
+	background:url(../../images/nav/sports-menu.gif) 0 0; no-repeat;
+}
+#sports-menu a:hover {
+	background-position:0 -12px;
+}
+#case-studies-menu a {
+	overflow: hidden;
+	display: block;
+	width:59px;
+	height:12px;
+	text-indent: -10000px;
+	/* border: 1px solid red; */
+	background:url(../../images/nav/case-studies-menu.gif) 0 0; no-repeat;
+}
+#case-studies-menu a:hover {
+	background-position:0 -12px;
+}
+#career-menu a {
+	overflow: hidden;
+	display: block;
+	width:34px;
+	height:12px;
+	text-indent: -10000px;
+	/* border: 1px solid red; */
+	background:url(../../images/nav/career-menu.gif) 0 0; no-repeat;
+}
+#career-menu a:hover {
+	background-position:0 -12px;
+	color:white;
+}
+#clients-menu a {
+	overflow: hidden;
+	display: block;
+	width:35px;
+	height:12px;
+	text-indent: -10000px;
+	/* border: 1px solid red; */
+	background:url(../../images/nav/clients-menu.gif) 0 0; no-repeat;
+}
+#clients-menu a:hover {
+	background-position:0 -12px;
+	color:white;
+}
+#corporate-menu a {
+	overflow: hidden;
+	display: block;
+	width:52px;
+	height:12px;
+	text-indent: -10000px;
+	/* border: 1px solid red; */
+	background:url(../../images/nav/corporate-menu.gif) 0 0; no-repeat;
+}
+#corporate-menu a:hover {
+	background-position:0 -12px;
+	color:white;
+}
+#contact-menu a {
+	overflow: hidden;
+	display: block;
+	width:40px;
+	height:12px;
+	text-indent: -10000px;
+	/* border: 1px solid red; */
+	background:url(../../images/nav/contact-menu.gif) 0 0; no-repeat;
+}
+#contact-menu a:hover {
+	background-position:0 -12px;
+	color:white;
+}
+.white-more-info-btn {
+	position: relative;
+	z-index:300;
+}
+.white-more-info-btn a {
+	overflow: hidden;
+	display: block;
+	width:60px;
+	height:8px;
+	margin-top:10px;
+	text-indent: -10000px;
+	position: relative;
+	z-index:300;
+	/* border: 1px solid red; */
+	background:url(../../images/global/more-info-white.png) 0 0; no-repeat;
+}
+.orange-more-info-btn a {
+	overflow: hidden;
+	display: block;
+	width:59px;
+	height:8px;
+	margin-top:10px;
+	text-indent: -10000px;
+	/* border: 1px solid red; */
+	background:url(../../images/global/more-info-orange.png) 0 0; no-repeat;
+}
+#testimonials-sidebar-header {
+	overflow: hidden;
+	display: block;
+	width:196px;
+	height:16px;
+	margin-top:10px;
+	margin-bottom:10px;
+	text-indent: -10000px;
+	/* border: 1px solid red; */
+	background:url(../../images/global/sidebar-header-testimonials.png) 0 0; no-repeat;
+}
+#news-feed-sidebar-header {
+	overflow: hidden;
+	display: block;
+	width:196px;
+	height:16px;
+	margin-top:10px;
+	text-indent: -10000px;
+	/* border: 1px solid red; */
+	background:url(../../images/global/sidebar-header-news.png) 0 0; no-repeat;
+}
