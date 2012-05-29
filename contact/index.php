@@ -43,7 +43,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"> 
 <head profile="http://gmpg.org/xfn/11"> 
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">  
-	<title></title>
+	<title>You Are What You Imagine</title>
 	<link rel="shortcut icon" type="image/x-icon" href="../images/icon/favicon.ico">	
 	<link href="../includes/css/global.css" rel="stylesheet" type="text/css">
 	<link href="../includes/css/menus.css" rel="stylesheet" type="text/css">
