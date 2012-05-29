@@ -282,10 +282,10 @@ v_fields = new Array('sender_email','sender_message');alert_on = true;thanks_on 
 		<a href="../home/index.html">HOME</a>
 	</li>
 	<li id="sports-menu">
-		<a href="../sports/index.html">SPORTS</a>
+		<a href="../exercise/index.html">SPORTS</a>
 	</li>
 	<li id="case-studies-menu">
-		<a href="../audiences/index.html">AUDIENCES</a>
+		<a href="../trainers/index.html">AUDIENCES</a>
 	</li>
 	<li id="clients-menu">
 		<a  href="../clients/index.html">CLIENTS</a>
