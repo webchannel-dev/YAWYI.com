@@ -306,7 +306,9 @@ v_fields = new Array('sender_email','sender_message');alert_on = true;thanks_on 
    		<div id="left-sidebar"><div id="sidebar-about">
 	
 	<div id="about-sidebar-summary">
-		<p> <span class="Apple-style-span" style="line-height: 14px; font-family: arial, helvetica, sans; color: rgb(0,0,0); font-size: 11px">YAWYI is the place where physical wellbeing becomes your way of life. Nothing is imposable, Lets get started “ I will send you the more info section in my next email”</div>
+		<p> <span class="Apple-style-span" style="line-height: 14px; font-family: arial, helvetica, sans; color: rgb(0,0,0); font-size: 11px">YAWYI is the place where physical wellbeing
+becomes your way of life. Nothing is
+impossible,<b> Let's get started!</b></div>
 	
 	<div class="orange-more-info-btn">
 		<a class="about" href="http://www.YAWYI.com/about/">MORE INFO</a>

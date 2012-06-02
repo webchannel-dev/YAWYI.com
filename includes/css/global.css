@@ -31,14 +31,16 @@ h2 {
 	height:100%;
 }
 #site-wrapper {
-
-	/* border:1px solid red; */
 	border-bottom: 2px solid orange;
 	position: absolute;
-	left:0px;	
+		
 	width:100%;
+	min-width:1035px;
 	height:720px;
-	top:10%;
+	top:5%;
+	alignment-baseline
+	
+	border-bottom: 2px solid orange; 
 	display: none;
 }
 #video-test {
@@ -154,8 +156,7 @@ h2 {
 #header {
 	width:1035px;
 	height:190px;
-	margin-left: auto;
-	margin-right: auto;
+	margin: auto;
 	border-bottom: 2px solid orange;
 	z-index:300;
 	position: relative;
@@ -586,7 +587,6 @@ h2 {
 	bottom:5px;
 	left:50%;
 	margin-left:-470px;
-	
 }
 #footer-bottom {
 	width: 100%;
@@ -602,16 +602,25 @@ h2 {
 	
 }
 #footer-main {
-	width: 940px;
+		width: 940px;
 	position: absolute;
 	bottom:5px;
 	left:50%;
 	margin-left:-445px;
 	
+	/*width: 940px;
+	position: relative;
+	bottom:-8px;
+	left:50%;
+	margin-left:-445px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:30px;*/
+	
 }
 #footer div {
-	/* float: left; */
-	/* margin-right:10px; */
+	 /*float: left; 
+	 margin-right:10px; */
 }
 #social-media-networks {
 	float:right;
